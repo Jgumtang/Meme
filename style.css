@@ -1,0 +1,32 @@
+html {
+
+    background-color:black;
+    text-align:center;
+    color:white;
+
+}
+
+div {
+
+    width:50%;
+    margin-left:25%;
+}
+
+#first {
+
+    font-family: 'Libre Baskerville', serif;
+    text-transform:uppercase;
+
+}
+
+#second {
+
+    border:5px white solid;
+}
+
+#sixth {
+
+    border:5px white solid;
+
+}
+
